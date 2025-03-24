@@ -57,4 +57,4 @@ MIT License
 
 ## Author
 
-Aymen Nhaila (@lurantys)
+(@lurantys)
